@@ -50,3 +50,5 @@ A estrutura de tabelas segue o seguinte modelo:
 ## Integrantes
 Erick Lopes - RM 553927
 Gabriel Sá Bragança - RM 554064
+
+## Documentação de imagens e vídeo
