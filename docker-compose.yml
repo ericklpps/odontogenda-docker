@@ -1,0 +1,13 @@
+services:
+  db:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: odontogendadb
+      MYSQL_USER: odontousuario
+      MYSQL_PASSWORD: odontosenha
+    volumes:
+      - db-data:/var/lib/mysql
+
+volumes:
+  db-data:
