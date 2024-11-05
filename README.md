@@ -47,5 +47,6 @@ A estrutura de tabelas segue o seguinte modelo:
 - **endereco**: Endereço onde ocorrerá a consulta.
 
 
-
-
+## Integrantes
+Erick Lopes - RM 553927
+Gabriel Sá Bragança - RM 554064
